@@ -1,0 +1,8 @@
+.header {
+  color: #fff;
+  display: inline-flex;
+}
+
+.list {
+  display: flex;
+}
