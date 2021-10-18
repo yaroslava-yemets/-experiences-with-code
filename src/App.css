@@ -1,4 +1,4 @@
-.App {
+/* .App {
   width: 100vw;
   height: 100vh;
   background: url("https://www.freecodecamp.org/news/content/images/2021/06/w-qjCHPZbeXCQ-unsplash.jpg");
@@ -6,4 +6,13 @@
   background-repeat: no-repeat;
   background-position: top;
   background: cover;
+} */
+.App {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: transparent;
+  color: aliceblue;
 }
