@@ -10,6 +10,9 @@ const Header = () => (
             <li>
                 <Link to="/aboutUs">Our Servise</Link>
             </li>
+            <li>
+                <Link to="/regist">Registration</Link>
+            </li>
         </ul>
     </header>
 );
